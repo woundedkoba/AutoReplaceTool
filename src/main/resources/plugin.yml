@@ -1,0 +1,7 @@
+name: AutoReplaceTool
+version: '0.0.0-Dev'
+main: io.github.woundedkoba.autoReplaceTool.AutoReplaceTool
+api-version: '1.21.7'
+authors: [woundedkoba]
+description: This plugin automatically replaces a broken tool or weapon on the hotbar with another matching one from your inventory when it breaks.
+website: buildlikestitch.online
